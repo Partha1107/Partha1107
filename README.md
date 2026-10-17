@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- Animated hero: inline SVG uses only GitHub-supported image rendering. -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:09090f,50:171326,100:09090f&text=ASHWIN%20RAJ&fontColor=eee9ff&fontSize=54&fontAlignY=42&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20APPLIED%20AI%20%E2%80%A2%20DEVELOPER&descSize=13&descAlignY=63&animation=fadeIn" alt="ASHWIN RAJ — Computer Science, Applied AI, Developer" />
+<p align="center">
+  <img src="./ashwin-animated.svg"
+       width="100%"
+       alt="Ashwin Raj — Animated Hunter Developer Banner"/>
+</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=850&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+useful+things%2C+one+commit+at+a+time.;React+%7C+JavaScript+%7C+Python;Exploring+Applied+AI%2C+Linux+%26+Security;Learn.+Build.+Improve." alt="Animated typing introduction" />
@@ -10,7 +14,7 @@
 <p>
   <a href="https://github.com/Partha1107"><img src="https://img.shields.io/badge/GitHub-Partha1107-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/ashwin-raj-002188383/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Partha1107&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views" />
+  
 </p>
 
 </div>
