@@ -1,0 +1,545 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" role="img" aria-label="Ashwin Raj - B.Tech CSE (Applied AI), St. Joseph University. Animated profile banner." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmNDhjYWY2My0xYTNkLTRjNmUtOTMwMS0xNWZmZTVlYzA2NjIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaO8xytEOR2kcyhvNjmvZGbgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowOTA2YTA4OC1kODFiLTQxZDgtOWY4Zi1iN2I1YjAwMGNjNDdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoxzYCV4d+1ueI/iWuttCywQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggJXeCE++nEa88yNvEfsyxX7iPKH87ezeBN7N4bQL9mlGkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCh0ox/REzgNaI8l56vvEC0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDHdQGHAqa9HqC8Um1nFNfYwIeAqgBm6eHOJ2Hmg34DYWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBj5Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmY0OGNhZjYzLTFhM2QtNGM2ZS05MzAxLTE1ZmZlNWVjMDY2Mi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjVlZjYwMmFhLTE1OWUtNDQ0Mi05M2Q3LTAzZjllNDc0OTkwYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAld4IT76cRrzzI28R+zLFfuI8ofzt7N4E3s3htAv2aUaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggmwAer3mcHbRzA0jfWMtiwXIFMz+t6qL08zholFyw2uqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggV6WGmC3XjEEWlEm60dIv/UjqWAFpgaGQKRO+dXYEtUx0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOoE0fqwc/Jt7DwTI/Kp+GhFE8cTsypgx766jSbwD0EsuRM2umhMC4KQ+ePaFyYFCJRsmK/20Af5Pcso/9KXZWY=</c2pa:manifest></metadata>
+  <title>Ashwin Raj — Animated Banner</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0420"/>
+      <stop offset="0.5" stop-color="#1b0b45"/>
+      <stop offset="0.85" stop-color="#3a1a73"/>
+      <stop offset="1" stop-color="#120629"/>
+    </linearGradient>
+    <radialGradient id="moonGlow">
+      <stop offset="0" stop-color="#e8d9ff" stop-opacity=".9"/>
+      <stop offset="0.35" stop-color="#9b6cff" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#9b6cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="screenGlow">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9d7bff"/>
+      <stop offset="0.5" stop-color="#c9b2ff"/>
+      <stop offset="1" stop-color="#7a4cff"/>
+    </linearGradient>
+    <linearGradient id="vignetteL" x1="0" x2="1">
+      <stop offset="0" stop-color="#05020f" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#05020f" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="vignetteR" x1="1" x2="0">
+      <stop offset="0" stop-color="#05020f" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#05020f" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur6" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+    <filter id="blur14" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+    <filter id="blur2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2"/></filter>
+    <clipPath id="screenClip"><rect x="403" y="262" width="92" height="56"/></clipPath>
+    <clipPath id="nameReveal">
+      <rect x="150" y="60" width="0" height="130">
+        <animate attributeName="width" from="0" to="360" dur="1.6s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    text { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #d9ccff; }
+    .script { font-family: 'Segoe Script', 'Bradley Hand', 'Brush Script MT', 'Comic Sans MS', cursive; font-style: italic; }
+    .mono { font-family: 'Cascadia Code', Consolas, 'Courier New', monospace; }
+    .name { font-family: 'Impact', 'Arial Black', 'Segoe Script', sans-serif; font-style: italic; font-weight: 900; font-size: 84px; letter-spacing: 2px; }
+
+    .twinkle { animation: twinkle 3s ease-in-out infinite; }
+    .t2 { animation-delay: .7s; animation-duration: 4s; }
+    .t3 { animation-delay: 1.4s; animation-duration: 2.4s; }
+    .t4 { animation-delay: 2.1s; animation-duration: 5s; }
+    @keyframes twinkle { 0%,100% { opacity: .15; } 50% { opacity: 1; } }
+
+    .moon-glow { transform-box: fill-box; transform-origin: center; animation: moonPulse 6s ease-in-out infinite; }
+    @keyframes moonPulse { 0%,100% { opacity: .65; transform: scale(1); } 50% { opacity: 1; transform: scale(1.12); } }
+
+    .cloud { animation: drift 40s linear infinite alternate; }
+    .cloud2 { animation-duration: 55s; animation-direction: alternate-reverse; }
+    @keyframes drift { from { transform: translateX(-40px); } to { transform: translateX(40px); } }
+
+    .eye { transform-box: fill-box; transform-origin: center; animation: eyePulse 4s ease-in-out infinite; }
+    @keyframes eyePulse { 0%,100% { opacity: .75; } 50% { opacity: 1; } }
+    .dragon-eye { animation: eyePulse 3s ease-in-out infinite; }
+
+    .name-glow { animation: nameGlow 3.5s ease-in-out 2s infinite; opacity: 0; }
+    @keyframes nameGlow { 0%,100% { opacity: .25; } 50% { opacity: .85; } }
+
+    .crown { animation: bob 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .crown2 { animation-delay: 1.2s; }
+    @keyframes bob { 0%,100% { transform: translateY(0) rotate(-6deg); } 50% { transform: translateY(-4px) rotate(4deg); } }
+
+    .fade-in { opacity: 0; animation: fadeIn .8s ease forwards; }
+    @keyframes fadeIn { to { opacity: 1; } }
+
+    .slide-in { opacity: 0; animation: slideIn .7s ease forwards; }
+    @keyframes slideIn { from { opacity: 0; transform: translateX(-14px); } to { opacity: 1; transform: translateX(0); } }
+    .slide-in-r { opacity: 0; animation: slideInR .7s ease forwards; }
+    @keyframes slideInR { from { opacity: 0; transform: translateX(14px); } to { opacity: 1; transform: translateX(0); } }
+
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    .win { animation: winFlicker 5s ease-in-out infinite; }
+    .w2 { animation-delay: 1.1s; animation-duration: 7s; }
+    .w3 { animation-delay: 2.3s; animation-duration: 4s; }
+    .w4 { animation-delay: 3.6s; animation-duration: 9s; }
+    @keyframes winFlicker { 0%,100% { opacity: .95; } 45% { opacity: .95; } 50% { opacity: .15; } 55% { opacity: .95; } }
+
+    .code { animation: scrollCode 6s linear infinite; }
+    @keyframes scrollCode { from { transform: translateY(0); } to { transform: translateY(-28px); } }
+    .screen-glow { animation: screenPulse 3s ease-in-out infinite; }
+    @keyframes screenPulse { 0%,100% { opacity: .5; } 50% { opacity: .9; } }
+
+    .tail { transform-box: fill-box; transform-origin: 0% 100%; animation: wag 2.8s ease-in-out infinite; }
+    @keyframes wag { 0%,100% { transform: rotate(-8deg); } 50% { transform: rotate(14deg); } }
+    .cat-ear { animation: earTwitch 6s ease-in-out infinite; transform-box: fill-box; transform-origin: bottom center; }
+    @keyframes earTwitch { 0%,90%,100% { transform: rotate(0); } 94% { transform: rotate(-10deg); } }
+
+    .breathe { transform-box: fill-box; transform-origin: bottom center; animation: breathe 4s ease-in-out infinite; }
+    @keyframes breathe { 0%,100% { transform: scaleY(1); } 50% { transform: scaleY(1.008); } }
+
+    .steam { animation: steam 4s ease-in-out infinite; }
+    @keyframes steam { 0% { opacity: 0; transform: translateY(6px); } 50% { opacity: .5; } 100% { opacity: 0; transform: translateY(-10px); } }
+
+    .float { animation: floaty 4s ease-in-out infinite; }
+    .f2 { animation-delay: .5s; } .f3 { animation-delay: 1s; } .f4 { animation-delay: 1.5s; } .f5 { animation-delay: 2s; } .f6 { animation-delay: 2.5s; }
+    @keyframes floaty { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+
+    .ember { animation: rise 9s linear infinite; opacity: 0; }
+    .e2 { animation-delay: 2s; animation-duration: 11s; } .e3 { animation-delay: 4s; animation-duration: 8s; }
+    .e4 { animation-delay: 6s; animation-duration: 12s; } .e5 { animation-delay: 1s; animation-duration: 10s; }
+    @keyframes rise { 0% { transform: translateY(0); opacity: 0; } 15% { opacity: .9; } 100% { transform: translateY(-160px); opacity: 0; } }
+
+    .check { stroke-dasharray: 14; stroke-dashoffset: 14; animation: draw .5s ease forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+
+    .underline { stroke-dasharray: 160; stroke-dashoffset: 160; animation: draw2 1.2s ease forwards; }
+    @keyframes draw2 { to { stroke-dashoffset: 0; } }
+
+    .pulse-line { stroke-dasharray: 120; animation: ecg 3s linear infinite; }
+    @keyframes ecg { from { stroke-dashoffset: 120; } to { stroke-dashoffset: -120; } }
+
+    .badge { animation: badgeGlow 3s ease-in-out infinite; }
+    @keyframes badgeGlow { 0%,100% { stroke-opacity: .5; } 50% { stroke-opacity: 1; } }
+
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 14s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+      .fade-in, .slide-in, .slide-in-r { opacity: 1 !important; }
+      .check, .underline { stroke-dashoffset: 0 !important; }
+      .name-glow { opacity: .4 !important; }
+    }
+  </style>
+
+  <!-- ============ BACKGROUND ============ -->
+  <rect width="1200" height="400" fill="url(#sky)"/>
+
+  <!-- stars -->
+  <g fill="#fff">
+    <circle class="twinkle" cx="330" cy="30" r="1.2"/><circle class="twinkle t2" cx="410" cy="55" r="1"/>
+    <circle class="twinkle t3" cx="520" cy="22" r="1.4"/><circle class="twinkle t4" cx="610" cy="48" r="1"/>
+    <circle class="twinkle" cx="680" cy="20" r="1.2"/><circle class="twinkle t3" cx="850" cy="30" r="1"/>
+    <circle class="twinkle t2" cx="920" cy="60" r="1.3"/><circle class="twinkle t4" cx="990" cy="25" r="1"/>
+    <circle class="twinkle" cx="460" cy="90" r="0.9"/><circle class="twinkle t3" cx="720" cy="90" r="1"/>
+    <circle class="twinkle t2" cx="560" cy="110" r="0.9"/><circle class="twinkle t4" cx="1000" cy="110" r="1"/>
+    <circle class="twinkle" cx="300" cy="110" r="1"/><circle class="twinkle t3" cx="880" cy="95" r="0.9"/>
+  </g>
+
+  <!-- moon -->
+  <g>
+    <circle class="moon-glow" cx="765" cy="46" r="60" fill="url(#moonGlow)"/>
+    <circle cx="765" cy="46" r="19" fill="#e9dcff"/>
+    <circle cx="759" cy="41" r="4" fill="#c7b2f5" opacity=".6"/>
+    <circle cx="771" cy="52" r="3" fill="#c7b2f5" opacity=".5"/>
+  </g>
+
+  <!-- storm clouds -->
+  <g filter="url(#blur14)" opacity=".75">
+    <ellipse class="cloud" cx="500" cy="60" rx="170" ry="36" fill="#2c1a6b"/>
+    <ellipse class="cloud cloud2" cx="900" cy="80" rx="190" ry="40" fill="#31197a"/>
+    <ellipse class="cloud" cx="660" cy="130" rx="150" ry="28" fill="#4a2a99" opacity=".6"/>
+  </g>
+
+  <!-- dark tree / shadow creature, top-centre -->
+  <g opacity=".9">
+    <path d="M560 0 C 540 40 590 70 600 110 C 610 70 640 60 650 20 C 660 50 700 40 690 0 Z" fill="#120830"/>
+    <path d="M640 0 C 625 30 650 55 665 80 C 690 55 710 40 700 0 Z" fill="#190a40"/>
+    <ellipse class="dragon-eye" cx="662" cy="38" rx="6" ry="2.6" fill="#b58bff" transform="rotate(-18 662 38)"/>
+    <ellipse class="dragon-eye" cx="688" cy="34" rx="5" ry="2.2" fill="#b58bff" transform="rotate(18 688 34)"/>
+    <circle cx="662" cy="38" r="9" fill="#9b6cff" opacity=".25" filter="url(#blur6)"/>
+  </g>
+
+  <!-- anime eye, top-left -->
+  <g>
+    <path d="M110 0 C 140 14 210 18 250 6 L 260 0 Z" fill="#0b0618"/>
+    <path d="M120 40 C 160 16 235 16 262 44 C 230 58 160 62 120 40 Z" fill="#0d0720" opacity=".9"/>
+    <g class="eye">
+      <circle cx="198" cy="40" r="22" fill="#6b3fd4" filter="url(#blur6)" opacity=".7"/>
+      <ellipse cx="198" cy="40" rx="17" ry="14" fill="#8e5bff"/>
+      <ellipse cx="198" cy="40" rx="7" ry="9" fill="#10052a"/>
+      <circle cx="192" cy="35" r="3.2" fill="#fff"/>
+    </g>
+    <path d="M120 40 C 160 16 235 16 262 44" stroke="#05020f" stroke-width="5" fill="none"/>
+  </g>
+
+  <!-- ============ CITY ============ -->
+  <g>
+    <rect x="440" y="215" width="470" height="90" fill="#1a0b3d" opacity=".0"/>
+    <!-- far skyline glow -->
+    <rect x="440" y="230" width="470" height="70" fill="#6a3bd1" opacity=".18" filter="url(#blur14)"/>
+    <!-- buildings -->
+    <g fill="#140a33">
+      <rect x="450" y="262" width="26" height="40"/><rect x="480" y="248" width="22" height="54"/>
+      <rect x="506" y="266" width="30" height="36"/><rect x="540" y="255" width="20" height="47"/>
+      <rect x="640" y="258" width="24" height="44"/><rect x="668" y="244" width="26" height="58"/>
+      <rect x="698" y="262" width="28" height="40"/><rect x="730" y="250" width="22" height="52"/>
+      <rect x="756" y="256" width="30" height="46"/>
+      <!-- university hall with tower -->
+      <rect x="796" y="262" width="120" height="40"/>
+      <rect x="826" y="240" width="40" height="62"/>
+      <polygon points="828,240 846,208 864,240"/>
+      <rect x="842" y="190" width="8" height="28"/>
+      <polygon points="838,192 846,168 854,192"/>
+      <rect x="845" y="158" width="2" height="12"/>
+      <polygon points="796,262 816,246 836,262"/>
+      <polygon points="870,262 890,246 910,262"/>
+    </g>
+    <!-- glowing windows -->
+    <g fill="#ffcf8a">
+      <rect class="win" x="454" y="270" width="3" height="4"/><rect class="win w2" x="462" y="278" width="3" height="4"/>
+      <rect class="win w3" x="486" y="256" width="3" height="4"/><rect class="win" x="492" y="268" width="3" height="4"/>
+      <rect class="win w4" x="512" y="274" width="3" height="4"/><rect class="win w2" x="524" y="282" width="3" height="4"/>
+      <rect class="win w3" x="545" y="262" width="3" height="4"/><rect class="win" x="552" y="274" width="3" height="4"/>
+      <rect class="win w2" x="645" y="266" width="3" height="4"/><rect class="win w4" x="653" y="280" width="3" height="4"/>
+      <rect class="win" x="674" y="254" width="3" height="4"/><rect class="win w3" x="682" y="268" width="3" height="4"/>
+      <rect class="win w2" x="704" y="272" width="3" height="4"/><rect class="win w4" x="714" y="284" width="3" height="4"/>
+      <rect class="win" x="736" y="260" width="3" height="4"/><rect class="win w3" x="742" y="274" width="3" height="4"/>
+    </g>
+    <g fill="#ff9be8">
+      <rect class="win w2" x="760" y="264" width="3" height="4"/><rect class="win" x="772" y="276" width="3" height="4"/>
+      <rect class="win w3" x="802" y="272" width="3" height="4"/><rect class="win w4" x="812" y="284" width="3" height="4"/>
+      <rect class="win" x="832" y="252" width="3" height="4"/><rect class="win w2" x="852" y="262" width="3" height="4"/>
+      <rect class="win w3" x="880" y="274" width="3" height="4"/><rect class="win" x="896" y="284" width="3" height="4"/>
+      <rect class="win w4" x="842" y="276" width="3" height="5"/><rect class="win w2" x="860" y="284" width="3" height="4"/>
+    </g>
+    <!-- street lights twinkling -->
+    <g fill="#ffb3f2" opacity=".85">
+      <circle class="twinkle" cx="500" cy="296" r="1.4"/><circle class="twinkle t2" cx="600" cy="298" r="1.4"/>
+      <circle class="twinkle t3" cx="700" cy="296" r="1.4"/><circle class="twinkle" cx="800" cy="298" r="1.4"/>
+      <circle class="twinkle t4" cx="880" cy="296" r="1.4"/>
+    </g>
+  </g>
+
+  <!-- window frame / curtains -->
+  <path d="M900 0 L1040 0 C 1010 60 1000 140 1010 300 L 1000 310 L 905 300 C 920 200 930 80 900 0 Z" fill="#0a0418" opacity=".7"/>
+  <rect x="0" y="0" width="560" height="400" fill="url(#vignetteL)"/>
+  <rect x="640" y="0" width="560" height="400" fill="url(#vignetteR)"/>
+
+  <!-- embers -->
+  <g fill="#c9a8ff">
+    <circle class="ember" cx="560" cy="330" r="1.6"/><circle class="ember e2" cx="520" cy="345" r="1.2"/>
+    <circle class="ember e3" cx="700" cy="335" r="1.4"/><circle class="ember e4" cx="760" cy="340" r="1.2"/>
+    <circle class="ember e5" cx="450" cy="320" r="1.3"/>
+  </g>
+
+  <!-- ============ DESK SCENE ============ -->
+  <!-- desk -->
+  <rect x="0" y="318" width="1200" height="82" fill="#07030f"/>
+  <rect x="0" y="316" width="1200" height="2" fill="#2a1465" opacity=".6"/>
+
+  <!-- book stack -->
+  <g>
+    <rect x="160" y="320" width="150" height="16" rx="2" fill="#1a0f3e"/>
+    <rect x="164" y="304" width="146" height="16" rx="2" fill="#211251"/>
+    <rect x="160" y="288" width="150" height="16" rx="2" fill="#1a0f3e"/>
+    <rect x="166" y="272" width="144" height="16" rx="2" fill="#241459"/>
+    <g font-size="9" opacity=".55">
+      <text x="178" y="283">Clean Code</text><text x="178" y="299">System Design</text>
+      <text x="178" y="315">Linux Internals</text><text x="178" y="331">Cyber Security</text>
+    </g>
+    <text x="190" y="348" font-size="9" opacity=".4">AI &amp; ML</text>
+  </g>
+
+  <!-- bottle -->
+  <g>
+    <rect x="330" y="248" width="40" height="70" rx="8" fill="#150b30"/>
+    <rect x="340" y="240" width="20" height="10" rx="3" fill="#1d1040"/>
+    <text class="script" x="337" y="296" font-size="8" opacity=".5" transform="rotate(-80 337 296)">Good Things Take Time</text>
+  </g>
+
+  <!-- screen glow cast on desk and person -->
+  <ellipse class="screen-glow" cx="470" cy="300" rx="150" ry="70" fill="url(#screenGlow)"/>
+
+  <!-- laptop -->
+  <g>
+    <polygon points="400,262 498,258 500,318 396,320" fill="#0c0620" stroke="#4c34a8" stroke-width="1"/>
+    <g clip-path="url(#screenClip)">
+      <rect x="403" y="262" width="92" height="56" fill="#0a0820"/>
+      <g class="code" font-size="0">
+        <g fill="#8e6bff">
+          <rect x="407" y="266" width="30" height="2"/><rect x="411" y="272" width="44" height="2"/>
+          <rect x="411" y="278" width="26" height="2"/><rect x="415" y="284" width="52" height="2"/>
+          <rect x="411" y="290" width="34" height="2"/><rect x="407" y="296" width="20" height="2"/>
+          <rect x="411" y="302" width="48" height="2"/><rect x="415" y="308" width="30" height="2"/>
+          <rect x="407" y="314" width="40" height="2"/><rect x="411" y="320" width="36" height="2"/>
+          <rect x="407" y="326" width="30" height="2"/><rect x="411" y="332" width="44" height="2"/>
+          <rect x="411" y="338" width="26" height="2"/><rect x="415" y="344" width="52" height="2"/>
+        </g>
+        <g fill="#5ad1ff" opacity=".8">
+          <rect x="442" y="266" width="16" height="2"/><rect x="460" y="278" width="20" height="2"/>
+          <rect x="470" y="290" width="14" height="2"/><rect x="452" y="302" width="22" height="2"/>
+          <rect x="450" y="314" width="18" height="2"/><rect x="462" y="326" width="14" height="2"/>
+          <rect x="444" y="338" width="22" height="2"/>
+        </g>
+        <g fill="#ff7bd5" opacity=".8">
+          <rect x="440" y="272" width="8" height="2"/><rect x="472" y="284" width="10" height="2"/>
+          <rect x="450" y="296" width="12" height="2"/><rect x="480" y="308" width="8" height="2"/>
+          <rect x="446" y="320" width="10" height="2"/><rect x="474" y="332" width="12" height="2"/>
+        </g>
+      </g>
+    </g>
+    <polygon points="396,320 500,318 520,334 380,336" fill="#120a2e" stroke="#4c34a8" stroke-width=".8"/>
+    <line x1="400" y1="326" x2="506" y2="324" stroke="#3a2a80" stroke-dasharray="3 2"/>
+  </g>
+
+  <!-- the developer (back view) -->
+  <g class="breathe">
+    <!-- hoodie body -->
+    <path d="M520 320 C 522 262 548 232 580 224 L 640 224 C 676 234 696 262 700 320 Z" fill="#150a35"/>
+    <path d="M520 320 C 522 262 548 232 580 224 L 600 222 C 560 240 545 275 548 320 Z" fill="#2c1766" opacity=".6"/>
+    <!-- hood -->
+    <path d="M565 232 C 570 206 650 206 655 232 C 640 244 580 244 565 232 Z" fill="#1d0f4d"/>
+    <!-- head -->
+    <circle cx="610" cy="188" r="29" fill="#0c0620"/>
+    <!-- hair spikes -->
+    <path d="M582 180 L 578 160 L 592 168 L 596 150 L 608 164 L 618 148 L 624 166 L 640 154 L 638 172 L 650 168 L 640 184 C 630 170 600 170 582 180 Z" fill="#0c0620"/>
+    <path d="M588 186 C 600 168 628 168 636 184" fill="none" stroke="#6b43d8" stroke-width="1.4" opacity=".6"/>
+    <!-- hoodie logo -->
+    <g opacity=".55" stroke="#8e6bff" stroke-width="1.6" fill="none" stroke-linecap="round">
+      <path d="M585 290 L 598 270 L 606 285 L 614 268 L 626 290"/>
+    </g>
+    <!-- arms to keyboard -->
+    <path d="M540 300 C 520 305 505 312 500 322 L 530 326 C 540 318 552 312 560 308 Z" fill="#120a2c"/>
+    <path d="M680 300 C 700 308 705 314 706 322 L 676 326 C 668 316 660 312 654 308 Z" fill="#120a2c"/>
+  </g>
+
+  <!-- plant -->
+  <g>
+    <rect x="768" y="298" width="36" height="20" rx="3" fill="#130a2a"/>
+    <path d="M786 298 C 776 280 770 270 764 262 M786 298 C 786 278 788 266 788 256 M786 298 C 796 280 802 272 810 264" stroke="#2c1a68" stroke-width="5" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- headphones -->
+  <g>
+    <path d="M818 316 C 812 280 850 262 880 276" stroke="#1b1040" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <circle cx="858" cy="304" r="16" fill="#120a2e" stroke="#2c1a68"/>
+    <path d="M851 304 q4 -8 8 0 q-4 8 -8 0" stroke="#6b43d8" fill="none" stroke-width="1.5"/>
+  </g>
+
+  <!-- cat -->
+  <g>
+    <path class="tail" d="M958 318 C 990 316 1000 290 990 262" stroke="#05020f" stroke-width="9" fill="none" stroke-linecap="round"/>
+    <ellipse cx="934" cy="298" rx="30" ry="22" fill="#05020f"/>
+    <circle cx="926" cy="260" r="19" fill="#05020f"/>
+    <polygon class="cat-ear" points="910,250 912,226 926,244" fill="#05020f"/>
+    <polygon points="942,244 948,224 952,252" fill="#05020f"/>
+    <path d="M912 270 C 920 250 940 252 944 268 L 944 296 L 912 296 Z" fill="#05020f"/>
+    <rect x="940" y="304" width="32" height="14" rx="6" fill="#05020f"/>
+    <circle cx="921" cy="259" r="1.6" fill="#c9a8ff" class="dragon-eye"/>
+    <circle cx="932" cy="259" r="1.6" fill="#c9a8ff" class="dragon-eye"/>
+  </g>
+
+  <!-- notebook checklist -->
+  <g transform="translate(0 0)">
+    <polygon points="520,392 540,342 650,338 668,392" fill="#12082a" stroke="#3a2a80" stroke-width=".8"/>
+    <g font-size="9.5" class="script" fill="#cdbbff">
+      <text class="fade-in" style="animation-delay:2.0s" x="552" y="357">Build Projects</text>
+      <text class="fade-in" style="animation-delay:2.4s" x="548" y="368">Get Internship</text>
+      <text class="fade-in" style="animation-delay:2.8s" x="543" y="379">Financial Freedom</text>
+    </g>
+    <g stroke="#9d7bff" stroke-width="1.2" fill="none">
+      <rect x="538" y="349" width="7" height="7" rx="1"/><rect x="534" y="360" width="7" height="7" rx="1"/><rect x="529" y="371" width="7" height="7" rx="1"/>
+    </g>
+  </g>
+
+  <!-- ============ LEFT PANEL ============ -->
+  <!-- quote -->
+  <g class="script fade-in" style="animation-delay:.4s" font-size="19">
+    <text x="12" y="36" transform="rotate(-6 12 36)" fill="#d6c6ff">“Better</text>
+    <text x="28" y="58" transform="rotate(-6 28 58)">Code</text>
+    <text x="40" y="82" transform="rotate(-6 40 82)">Bigger</text>
+    <text x="50" y="106" transform="rotate(-6 50 106)">Dreams”</text>
+  </g>
+  <path class="underline" style="animation-delay:1.2s" d="M36 106 Q 60 108 90 92" stroke="#9d7bff" stroke-width="1.6" fill="none"/>
+
+  <!-- skills -->
+  <g font-size="13.5" fill="#cdbbff">
+    <g class="slide-in" style="animation-delay:.6s">
+      <rect x="23" y="120" width="16" height="16" rx="5" fill="#6b43d8"/><rect x="29" y="124" width="9" height="8" rx="3" fill="#cdbbff" opacity=".8"/>
+      <text x="48" y="133">Python</text>
+    </g>
+    <g class="slide-in" style="animation-delay:.75s">
+      <rect x="23" y="144" width="16" height="16" rx="2" fill="#7a5cff"/><text x="25" y="157" font-size="8" font-weight="700" fill="#10052a">JS</text>
+      <text x="48" y="157">JavaScript</text>
+    </g>
+    <g class="slide-in" style="animation-delay:.9s">
+      <g stroke="#9d7bff" stroke-width="1.2" fill="none"><ellipse class="spin" cx="31" cy="178" rx="9" ry="3.6"/><ellipse class="spin" cx="31" cy="178" rx="9" ry="3.6" transform="rotate(60 31 178)"/><ellipse class="spin" cx="31" cy="178" rx="9" ry="3.6" transform="rotate(120 31 178)"/></g>
+      <circle cx="31" cy="178" r="2" fill="#9d7bff"/>
+      <text x="48" y="181">React</text>
+    </g>
+    <g class="slide-in" style="animation-delay:1.05s">
+      <polygon points="31,193 39,197.5 39,206.5 31,211 23,206.5 23,197.5" fill="none" stroke="#9d7bff" stroke-width="1.3"/>
+      <text x="48" y="205">Node.js</text>
+    </g>
+    <g class="slide-in" style="animation-delay:1.2s">
+      <path d="M31 216 C 38 224 38 234 31 242 C 24 234 24 224 31 216 Z" fill="#7a5cff"/>
+      <text x="48" y="229">MongoDB</text>
+    </g>
+    <g class="slide-in" style="animation-delay:1.35s">
+      <ellipse cx="31" cy="254" rx="7" ry="9" fill="#6b43d8"/><ellipse cx="31" cy="256" rx="4" ry="5" fill="#cdbbff" opacity=".8"/>
+      <text x="48" y="253">Linux</text>
+    </g>
+    <g class="slide-in" style="animation-delay:1.5s">
+      <path d="M31 266 L 40 269 L 40 278 C 40 284 35 288 31 290 C 27 288 22 284 22 278 L 22 269 Z" fill="none" stroke="#9d7bff" stroke-width="1.4"/>
+      <text x="48" y="279">Cyber Security</text>
+    </g>
+    <g class="slide-in" style="animation-delay:1.65s">
+      <path d="M26 305 a5 5 0 0 1 3 -9 a7 7 0 0 1 13 2 a4 4 0 0 1 -1 8 Z" fill="#8e6bff"/>
+      <text x="48" y="303">Cloud Security</text>
+    </g>
+  </g>
+
+  <!-- terminal -->
+  <g class="mono" font-size="11">
+    <text x="24" y="342" fill="#b9a4f5">ashwin@Laptop:~$</text>
+    <rect class="cursor" x="112" y="332" width="6" height="11" fill="#b9a4f5"/>
+  </g>
+
+  <!-- same guy -->
+  <g class="script fade-in" style="animation-delay:2s">
+    <text x="168" y="250" font-size="14" transform="rotate(-10 168 250)">Same guy...</text>
+    <text x="176" y="268" font-size="14" transform="rotate(-10 176 268)">Bigger vision!</text>
+    <path class="underline" style="animation-delay:2.6s" d="M170 282 Q 210 276 245 262" stroke="#9d7bff" stroke-width="1.6" fill="none"/>
+  </g>
+
+  <!-- ============ NAME ============ -->
+  <g>
+    <!-- glow layer -->
+    <g class="name-glow" filter="url(#blur6)">
+      <text class="name" x="165" y="140" fill="#9d7bff" transform="skewX(-8)">ASHWIN RAJ</text>
+    </g>
+    <g clip-path="url(#nameReveal)">
+      <text class="name" x="165" y="140" fill="url(#nameGrad)" stroke="#5b34c9" stroke-width="1" transform="skewX(-8)" style="fill:url(#nameGrad)">ASHWIN RAJ</text>
+    </g>
+    <!-- brush slash -->
+    <path d="M170 186 L 470 112 L 464 120 L 176 192 Z" fill="#7c5cff" opacity=".0"/>
+    <!-- crowns -->
+    <g fill="none" stroke="#b79bff" stroke-width="1.6" stroke-linejoin="round">
+      <path class="crown" d="M218 108 L 214 90 L 224 98 L 230 86 L 236 98 L 246 90 L 242 108 Z"/>
+      <path class="crown crown2" d="M326 98 L 323 84 L 331 90 L 336 80 L 341 90 L 349 84 L 346 98 Z"/>
+    </g>
+    <text class="fade-in" style="animation-delay:1.6s" x="208" y="181" font-size="13.5" letter-spacing=".6">B.Tech CSE (Applied AI)  |  St. Joseph University</text>
+
+    <!-- badges -->
+    <g class="fade-in" style="animation-delay:2s">
+      <rect class="badge" x="238" y="194" width="86" height="19" rx="9.5" fill="#12082e" stroke="#8e6bff"/>
+      <circle cx="248" cy="203.5" r="6.5" fill="#cdbbff"/>
+      <text x="260" y="207.5" font-size="10.5">Partha1107</text>
+      <rect class="badge" x="333" y="194" width="70" height="19" rx="4" fill="#0a3a8a" stroke="#4aa0ff"/>
+      <text x="338" y="208" font-size="11" font-weight="700" fill="#fff" style="fill:#fff">in</text>
+      <text x="352" y="207.5" font-size="10.5" style="fill:#fff">Connect</text>
+    </g>
+  </g>
+
+  <!-- discipline -->
+  <g class="fade-in" style="animation-delay:1.4s" font-size="13" letter-spacing="1">
+    <text x="696" y="133">DISCIPLINE</text><text x="702" y="147">BUILDS</text><text x="702" y="162">FREEDOM</text>
+    <path class="underline" style="animation-delay:2s" d="M696 168 L 764 168" stroke="#9d7bff" stroke-width="1.3"/>
+  </g>
+
+  <!-- ============ RIGHT PANEL ============ -->
+  <!-- currently -->
+  <g transform="rotate(-6 960 100)">
+    <text class="script fade-in" style="animation-delay:.5s" x="890" y="62" font-size="17" fill="#e6dbff">CURRENTLY</text>
+    <path class="underline" style="animation-delay:1s" d="M890 66 L 970 64" stroke="#9d7bff" stroke-width="1.4"/>
+    <g font-size="11" fill="#c8b6f7">
+      <text class="slide-in-r" style="animation-delay:.9s"  x="894" y="82">→ 1st Year B.Tech CSE (Applied AI)</text>
+      <text class="slide-in-r" style="animation-delay:1.1s" x="898" y="98">→ Learning Full Stack &amp; Cloud</text>
+      <text class="slide-in-r" style="animation-delay:1.3s" x="902" y="114">→ Building AESA (Attend Flow)</text>
+      <text class="slide-in-r" style="animation-delay:1.5s" x="906" y="130">→ Exploring Cyber Security</text>
+      <text class="slide-in-r" style="animation-delay:1.7s" x="910" y="146">→ Open to Internships</text>
+    </g>
+  </g>
+
+  <!-- goals -->
+  <g>
+    <text class="script fade-in" style="animation-delay:.6s" x="1058" y="46" font-size="17" fill="#e6dbff" transform="rotate(-6 1058 46)">GOALS</text>
+    <path class="crown" d="M1118 48 L 1116 34 L 1123 40 L 1128 30 L 1133 40 L 1140 34 L 1138 48 Z" fill="none" stroke="#b79bff" stroke-width="1.5"/>
+    <line x1="1056" y1="38" x2="1056" y2="150" stroke="#4c34a8" stroke-width="1.2"/>
+    <g font-size="11.5" fill="#d6c6ff" transform="rotate(-6 1130 100)">
+      <g class="slide-in-r" style="animation-delay:1s"><rect x="1062" y="64" width="9" height="9" rx="1.5" fill="none" stroke="#9d7bff"/><path class="check" style="animation-delay:1.6s" d="M1064 68.5 l2.5 2.5 l5 -7" stroke="#cdbbff" stroke-width="1.6" fill="none"/><text x="1078" y="72">Strong Dev Skills</text></g>
+      <g class="slide-in-r" style="animation-delay:1.2s"><rect x="1062" y="82" width="9" height="9" rx="1.5" fill="none" stroke="#9d7bff"/><path class="check" style="animation-delay:1.9s" d="M1064 86.5 l2.5 2.5 l5 -7" stroke="#cdbbff" stroke-width="1.6" fill="none"/><text x="1078" y="90">Internship (Soon)</text></g>
+      <g class="slide-in-r" style="animation-delay:1.4s"><rect x="1062" y="100" width="9" height="9" rx="1.5" fill="none" stroke="#9d7bff"/><path class="check" style="animation-delay:2.2s" d="M1064 104.5 l2.5 2.5 l5 -7" stroke="#cdbbff" stroke-width="1.6" fill="none"/><text x="1078" y="108">Build Cool Projects</text></g>
+      <g class="slide-in-r" style="animation-delay:1.6s"><rect x="1062" y="118" width="9" height="9" rx="1.5" fill="none" stroke="#9d7bff"/><path class="check" style="animation-delay:2.5s" d="M1064 122.5 l2.5 2.5 l5 -7" stroke="#cdbbff" stroke-width="1.6" fill="none"/><text x="1078" y="126">Good Health &amp; Physique</text></g>
+      <g class="slide-in-r" style="animation-delay:1.8s"><rect x="1062" y="136" width="9" height="9" rx="1.5" fill="none" stroke="#9d7bff"/><path class="check" style="animation-delay:2.8s" d="M1064 140.5 l2.5 2.5 l5 -7" stroke="#cdbbff" stroke-width="1.6" fill="none"/><text x="1078" y="144">Financial Freedom</text></g>
+      <g class="slide-in-r" style="animation-delay:2s"><rect x="1062" y="154" width="9" height="9" rx="1.5" fill="none" stroke="#9d7bff"/><path class="check" style="animation-delay:3.1s" d="M1064 158.5 l2.5 2.5 l5 -7" stroke="#cdbbff" stroke-width="1.6" fill="none"/><text x="1078" y="162">Solo Travel</text></g>
+    </g>
+  </g>
+
+  <!-- not just a developer -->
+  <g class="script fade-in" style="animation-delay:2.4s" font-size="15">
+    <text x="980" y="222" transform="rotate(-12 980 222)">Not just</text>
+    <text x="988" y="240" transform="rotate(-12 988 240)">a developer...</text>
+    <text x="996" y="258" transform="rotate(-12 996 258)">A future builder.</text>
+    <path class="underline" style="animation-delay:3s" d="M1000 270 Q 1040 262 1068 244" stroke="#9d7bff" stroke-width="1.6" fill="none"/>
+  </g>
+
+  <!-- poster frame -->
+  <g opacity=".85">
+    <rect x="1098" y="172" width="86" height="126" fill="#0a0518" stroke="#2c1a68"/>
+    <rect x="1104" y="178" width="74" height="114" fill="#1a0d42"/>
+    <ellipse cx="1141" cy="236" rx="16" ry="22" fill="#05020f"/><circle cx="1141" cy="214" r="9" fill="#05020f"/>
+  </g>
+
+  <!-- linux card -->
+  <g class="fade-in" style="animation-delay:2.8s">
+    <rect x="1098" y="318" width="88" height="48" fill="#0a0518" stroke="#2c1a68" opacity=".9"/>
+    <ellipse cx="1112" cy="340" rx="6" ry="9" fill="#9d7bff"/><ellipse cx="1112" cy="343" rx="3.4" ry="5" fill="#0a0518"/>
+    <text x="1126" y="335" font-size="10.5" letter-spacing=".8">LINUX</text>
+    <text class="script" x="1124" y="348" font-size="8">“Freedom</text>
+    <text class="script" x="1124" y="358" font-size="8">is a feature.”</text>
+  </g>
+
+  <!-- location + pulse -->
+  <g class="fade-in" style="animation-delay:2.2s">
+    <path d="M912 332 a5 5 0 1 1 10 0 c0 4 -5 10 -5 10 s-5 -6 -5 -10 z" fill="none" stroke="#cdbbff" stroke-width="1.3"/><circle cx="917" cy="332" r="1.6" fill="#cdbbff"/>
+    <text x="930" y="338" font-size="11.5">Tamil Nadu, India</text>
+    <polyline class="pulse-line" points="1015,336 1030,336 1034,328 1039,343 1043,336 1075,336" fill="none" stroke="#6b43d8" stroke-width="1.3"/>
+  </g>
+
+  <!-- bottom tool icons -->
+  <g stroke="#9d7bff" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g class="float">
+      <circle cx="741" cy="372" r="11"/><path d="M737 366 q4 -3 8 0 M735 372 q6 -4 12 0 M737 378 q4 3 8 0"/>
+    </g>
+    <g class="float f2">
+      <path d="M788 364 L 800 358 L 800 386 L 788 380 L 778 372 Z M778 372 L 788 364 L 788 380 Z"/>
+    </g>
+    <g class="float f3">
+      <rect x="826" y="360" width="38" height="24" rx="3"/><path d="M832 368 l6 4 l-6 4 M842 377 h8"/>
+    </g>
+    <g class="float f4">
+      <path d="M888 360 l12 12 l-12 12 l-12 -12 Z"/><circle cx="888" cy="372" r="2.5" fill="#9d7bff"/>
+    </g>
+    <g class="float f5">
+      <path d="M918 374 h30 c0 8 -8 12 -15 12 c-8 0 -15 -4 -15 -12 Z M922 366 h6 v6 h-6 Z M930 366 h6 v6 h-6 Z M938 366 h6 v6 h-6 Z M930 358 h6 v6 h-6 Z"/>
+    </g>
+    <g class="float f6">
+      <path d="M968 382 a6 6 0 0 1 2 -11 a9 9 0 0 1 17 3 a5 5 0 0 1 -1 8 Z"/>
+    </g>
+  </g>
+</svg>
